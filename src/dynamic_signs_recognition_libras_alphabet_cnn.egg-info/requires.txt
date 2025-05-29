@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+ffmpeg
+imageio[ffmpeg]
+tensorflow
+keras
+torch
+torchvision
+jupyter
+notebook
+seaborn

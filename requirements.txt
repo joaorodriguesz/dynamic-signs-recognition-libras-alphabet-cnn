@@ -1,0 +1,22 @@
+# Manipulação de arquivos e dados
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+
+# Processamento de vídeos
+ffmpeg
+imageio[ffmpeg]
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Notebook e visualização
+jupyter
+notebook
+
+seaborn 

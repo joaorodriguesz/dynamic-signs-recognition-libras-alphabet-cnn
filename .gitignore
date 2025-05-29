@@ -1,0 +1,6 @@
+data/*
+venv/*
+saved_models/*
+src/preprocess/_pycache_/
+src/models/_pycache_/
+src/_pycache_/

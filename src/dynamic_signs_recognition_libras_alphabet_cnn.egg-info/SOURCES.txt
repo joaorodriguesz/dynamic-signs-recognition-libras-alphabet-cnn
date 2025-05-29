@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/dynamic_signs_recognition_libras_alphabet_cnn.egg-info/PKG-INFO
+src/dynamic_signs_recognition_libras_alphabet_cnn.egg-info/SOURCES.txt
+src/dynamic_signs_recognition_libras_alphabet_cnn.egg-info/dependency_links.txt
+src/dynamic_signs_recognition_libras_alphabet_cnn.egg-info/requires.txt
+src/dynamic_signs_recognition_libras_alphabet_cnn.egg-info/top_level.txt
+src/preprocess/__init__.py
+src/preprocess/preprocessor.py
+src/preprocess/run_preprocessing.py
+src/preprocess/video_manager.py
